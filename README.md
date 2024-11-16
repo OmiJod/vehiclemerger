@@ -20,7 +20,7 @@ This tool automates the task of combining multiple vehicle resource folders into
 
 1. **Download and Run**:
    - Clone this repository or download the `.exe` from [Releases](#).
-   - Run the executable or the Python script.
+   - Run the executable.
 
 2. **Select Folders**:
    - Choose your input folder (where vehicle resources are located).
